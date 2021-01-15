@@ -15,6 +15,7 @@
 body{
     background: var(--preto);
     font-family: 'Times New Roman', Times, serif;
+    color: var(--branco);
 }
 
 header .logo{
@@ -37,4 +38,10 @@ header nav a{
 
 header nav a:hover{
     color: var(--branco);
+}
+
+/* Main */
+.filme-principal{
+    font-size: 16px;
+    background: url();
 }

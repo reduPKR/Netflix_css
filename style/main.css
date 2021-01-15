@@ -43,5 +43,22 @@ header nav a:hover{
 /* Main */
 .filme-principal{
     font-size: 16px;
-    background: url();
+    background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)100%), url("/img/the-mandalorian.jpg");
+
+    
+    height: 400px;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-principal .descricao{
+    margin-bottom: 50px;;
+}
+
+.titulo{
+    font-size: 44px;
 }

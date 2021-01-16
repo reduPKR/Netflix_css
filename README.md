@@ -1,4 +1,5 @@
 ## Tela da copia Netflix  
+####Usei séries aleatórias na construção, por isso nas imagens tem séries que não são da Netflix  
 
 ![1](https://user-images.githubusercontent.com/56879793/104795974-49810a00-5791-11eb-93c3-671050eead73.PNG)
 ![2](https://user-images.githubusercontent.com/56879793/104795978-4c7bfa80-5791-11eb-8b25-9f7e89c05fcc.PNG)

@@ -3,7 +3,7 @@
     --vermelho: #e50914;
     --preto: #131313;
     --cinza: #aaaaaa;
-    --branco: #ffffff;
+    --branco: #fafafa;
 }
 
 *{
@@ -57,8 +57,33 @@ header nav a:hover{
 
 .filme-principal .descricao{
     margin-bottom: 50px;;
+    margin-top: 10;
 }
 
-.titulo{
+.filme-principal .titulo{
+    margin-top: 15%;
     font-size: 44px;
+}
+
+.botao{
+    background-color: rgba(0,0,0,.5);
+    border: none;
+    color: var(--branco);
+
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 20px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: 1s;
+}
+
+.botao:hover{
+    background-color: var(--branco);
+    color: var(--preto);
+}
+
+.botao i{
+    margin-right: 5px;
 }
